@@ -1,0 +1,7 @@
+The app I am planning to build is an eCommerce NBA shop that will sell a range of NBA-related products, including jerseys, t-shirts, shoes, socks, jackets, headwear, and more. The aim of this app is to provide a convenient and user-friendly platform for NBA fans to purchase high-quality products related to their favorite teams and players.
+
+In terms of actors, there will be three main categories of users in this app: admin, user, and visitor. The admin will have full control over the app, including managing the inventory, tracking sales, and monitoring user activity. Users will be able to create accounts, browse products, add items to their cart, and complete purchases using Stripe payment. Visitors will also be able to browse products but will not have access to the same features as registered users.
+
+The primary purpose of this app is to provide an easy and convenient way for NBA fans to purchase authentic products related to their favorite teams and players. By offering a wide range of products and using high-quality images and descriptions, we aim to create an immersive and engaging shopping experience for our users. In addition, we will offer various discounts, promotions, and rewards to encourage repeat purchases and build a loyal customer base.
+
+Overall, my goal is to create a platform that provides a seamless and enjoyable shopping experience for NBA fans .
